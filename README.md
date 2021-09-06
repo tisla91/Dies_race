@@ -1,2 +1,2 @@
 # horse_race
-A simulation of a race based on recurrent outcome two thrown dies
+Simulation of a race based on recurrent outcome of two thrown dies
